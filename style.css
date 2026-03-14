@@ -1,0 +1,21 @@
+body {
+  background-color: peachpuff;
+  text-align: center;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+#taskList {
+  text-align: left;  
+}
+
+.items {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+  
+}
